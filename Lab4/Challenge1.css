@@ -1,0 +1,20 @@
+body{
+ background-color: blue;
+}
+
+.box {
+  margin: 20px 10% 20px 10%;
+  border: 3px solid black;
+}
+
+.badger {
+  border-style: dashed;
+  padding: 5px;
+  margin: 10px;
+}
+
+#boomer{
+  border: 1px dashed white;
+  padding: 5px;
+  margin: 0px;
+}

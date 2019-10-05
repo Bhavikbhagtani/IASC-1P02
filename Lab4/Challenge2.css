@@ -1,0 +1,28 @@
+.exercise2{
+border: dashed 2px purple;
+text-align: center;
+}
+
+.step2{ text-align: center;
+  color:green;
+  font-size: 8px;
+}
+
+.step4{color:orange;
+  font-size: 25px;
+}
+
+.above{
+  color:red;
+  vertical-align: super;
+}
+
+.upper{
+  text-transform: uppercase;
+  color: yellow;
+}
+
+.step3 {
+  color:purple;
+  text-align: right;
+}
