@@ -1,0 +1,59 @@
+/*This is my css*/
+
+body{
+  background-color: black;
+}
+
+#color{
+  color: pink;
+  font-size: 20px;
+}
+
+#header1{
+  color: skyblue;
+  font-size: 100px;
+}
+
+#centerbox{
+  color: pink;
+  text-align: center;
+  font-size: 15px;
+}
+
+.menuheader{
+  text-align: center;
+  font-size: 30px;
+  color: white;
+}
+
+#size{
+  font-size: 35px;
+}
+
+.register{
+  color: pink;
+}
+
+.clock{
+  color: pink;
+  font-size: 30px;
+  text-align: right;
+}
+
+form.form {
+    display: table;
+    color: pink;
+}
+
+div.form {
+    display: table-row;
+}
+
+label, input {
+    display: table-cell;
+    margin-bottom: 10px;
+}
+
+label {
+    padding-right: 10px;
+}
